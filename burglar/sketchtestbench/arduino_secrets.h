@@ -1,0 +1,4 @@
+#define SECRET_SSID "giafka"
+#define SECRET_PASS "1312fwtia"
+#define SECRET_BOT_TOKEN "568796039:AAF6mhReaEBuMBhB4vDBql0YvQDCZI5deMI"
+
